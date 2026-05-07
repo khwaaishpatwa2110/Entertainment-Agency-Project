@@ -4,17 +4,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-### Option 1: Live Demo (Recommended)
-Access the full application instantly in your browser:
-**[https://khwaaishpatwa2110.github.io/entertainment-agency/](https://khwaaishpatwa2110.github.io/entertainment-agency/)**
-
-### Option 2: Local Setup
-1. Clone or download the repository:
-   `git clone https://github.com/khwaaishpatwa2110/entertainment-agency.git`
-2. Open `index.html` in any modern browser.
-
 ## 🎬 Overview
 
 **NOVA** is a single-file web application that simulates the operations of a large-scale entertainment agency — managing artists, trainees, concert tours, ticket sales, and merchandise inventory — all backed by a real **SQLite database running entirely in the browser** via [SQL.js](https://sql-wasm.netlify.app/).
@@ -171,16 +160,14 @@ NOVA saves your database to `localStorage` automatically after every change — 
 
 ## 🚀 Getting Started
 
-No installation required.
+### Option 1: Live Demo (Recommended)
+Access the full application instantly in your browser:
+**[https://khwaaishpatwa2110.github.io/entertainment-agency/](https://khwaaishpatwa2110.github.io/entertainment-agency/)**
 
-```bash
-# 1. Clone or download the repository
-git clone https://github.com/your-username/nova-entertainment-agency.git
-
-# 2. Open the file in any modern browser
-open entertainment_agency.html
-# or just double-click the file
-```
+### Option 2: Local Setup
+1. Clone or download the repository:
+   `git clone https://github.com/khwaaishpatwa2110/entertainment-agency.git`
+2. Open `index.html` in any modern browser.
 
 That's it. The SQLite engine loads via CDN ([sql-wasm](https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.2/)) and the database initialises automatically.
 
